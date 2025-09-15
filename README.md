@@ -46,16 +46,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjali2000Shukla&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjali2000Shukla&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2000Shukla&layout=compact&theme=radical&langs_count=10&hide=javascript,html,css" alt="Top Languages" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2000Shukla&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali2000Shukla&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 
 
