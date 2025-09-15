@@ -42,13 +42,13 @@
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/>  
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-</p>
-
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjali2000Shukla&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2000Shukla&layout=compact&theme=radical&langs_count=10&hide=javascript,html,css" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2000Shukla&layout=compact&theme=radical&langs_count=10" alt="Top Languages" height="180em"/>
 </p>
+
 
 
 
