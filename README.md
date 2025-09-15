@@ -1,6 +1,5 @@
-## Hi there 👋
-
-## 🚀 About Me  
+## Hi there, I'M Anjali Shukla 👋
+ 
 
 🚀 About Me
 
