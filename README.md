@@ -46,16 +46,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjali2000Shukla&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/> 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjali2000Shukla&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali2000Shukla&layout=compact&theme=radical&langs_count=10&hide=javascript,html,css" alt="Top Languages" height="180em"/>
 </p>
+
 
 
 
